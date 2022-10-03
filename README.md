@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tonytoocozy
+- 👋 Hi, I’m Lloyd Valdez
 - 👀 I’m interested in coding, cooking and house plants.
 - 🌱 I’m currently learning React.
 
